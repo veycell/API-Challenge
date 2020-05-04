@@ -1,0 +1,1092 @@
+,City,Country,Lat,Long,Max Temp,Humidity,Wind Speed,Cloud Cover
+0,Puerto El Triunfo,SV,13.28,-88.55,29.0,79,2.1,Clouds
+1,Puerto El Triunfo,SV,13.28,-88.55,29.0,79,2.1,Clouds
+2,Atuona,PF,-9.8,-139.03,27.49,75,8.76,Clear
+3,Atuona,PF,-9.8,-139.03,27.49,75,8.76,Clear
+4,Vaini,TO,-21.2,-175.2,27.0,74,3.6,Clouds
+5,Vaini,TO,-21.2,-175.2,27.0,74,3.6,Clouds
+6,Hermanus,ZA,-34.42,19.23,13.16,79,4.37,Clear
+7,Hermanus,ZA,-34.42,19.23,13.16,79,4.37,Clear
+8,Philadelphia,US,39.95,-75.16,21.67,68,3.6,Clouds
+9,Philadelphia,US,39.95,-75.16,21.67,68,3.6,Clouds
+10,Madimba,TZ,-10.4,40.33,22.8,90,4.42,Clear
+11,Madimba,TZ,-10.4,40.33,22.8,90,4.42,Clear
+12,East London,ZA,-33.02,27.91,18.16,72,4.97,Rain
+13,East London,ZA,-33.02,27.91,18.16,72,4.97,Rain
+14,Copiapó,CL,-27.37,-70.33,14.0,87,2.6,Clear
+15,Copiapó,CL,-27.37,-70.33,14.0,87,2.6,Clear
+16,Basco,PH,20.45,121.97,27.75,71,3.17,Clear
+17,Basco,PH,20.45,121.97,27.75,71,3.17,Clear
+18,Atar,MR,20.52,-13.05,25.45,20,3.01,Clouds
+19,Atar,MR,20.52,-13.05,25.45,20,3.01,Clouds
+20,San Rafael,AR,-34.62,-68.33,15.17,45,5.13,Clouds
+21,San Rafael,AR,-34.62,-68.33,15.17,45,5.13,Clouds
+22,Hobart,AU,-42.88,147.33,16.67,55,2.6,Clouds
+23,Hobart,AU,-42.88,147.33,16.67,55,2.6,Clouds
+24,Qaanaaq,GL,77.48,-69.36,-7.18,94,1.63,Snow
+25,Qaanaaq,GL,77.48,-69.36,-7.18,94,1.63,Snow
+26,Hamilton,US,39.18,-84.53,14.44,93,2.36,Rain
+27,Hamilton,US,39.18,-84.53,14.44,93,2.36,Rain
+28,Punta Arenas,CL,-53.15,-70.92,1.0,83,3.1,Clouds
+29,Punta Arenas,CL,-53.15,-70.92,1.0,83,3.1,Clouds
+30,Deputatsky,RU,69.3,139.9,-9.57,90,1.73,Clouds
+31,Deputatsky,RU,69.3,139.9,-9.57,90,1.73,Clouds
+32,Meïganga,CM,6.52,14.3,19.86,68,0.05,Rain
+33,Rettikhovka,RU,44.17,132.77,4.17,87,4.21,Clouds
+34,Rettikhovka,RU,44.17,132.77,4.17,87,4.21,Clouds
+35,Talnakh,RU,69.49,88.4,-7.0,92,10.0,Clouds
+36,Talnakh,RU,69.49,88.4,-7.0,92,10.0,Clouds
+37,Ponta do Sol,PT,32.67,-17.1,18.0,63,6.2,Clouds
+38,Ponta do Sol,PT,32.67,-17.1,18.0,63,6.2,Clouds
+39,Jalu,LY,29.03,21.55,16.58,75,4.19,Clear
+40,Jalu,LY,29.03,21.55,16.58,75,4.19,Clear
+41,Codrington,AU,-38.27,141.97,14.03,71,1.77,Clouds
+42,Codrington,AU,-38.27,141.97,14.03,71,1.77,Clouds
+43,Kashgar,CN,39.45,75.98,17.0,29,7.0,Clouds
+44,Kashgar,CN,39.45,75.98,17.0,29,7.0,Clouds
+45,Kruisfontein,ZA,-34.0,24.73,13.73,86,4.79,Rain
+46,Kruisfontein,ZA,-34.0,24.73,13.73,86,4.79,Rain
+47,Ushuaia,AR,-54.8,-68.3,4.0,69,7.2,Clouds
+48,Ushuaia,AR,-54.8,-68.3,4.0,69,7.2,Clouds
+49,Turtas,RU,58.94,69.13,2.55,79,3.61,Clouds
+50,Turtas,RU,58.94,69.13,2.55,79,3.61,Clouds
+51,Doha,QA,25.29,51.53,27.0,51,1.0,Clear
+52,Doha,QA,25.29,51.53,27.0,51,1.0,Clear
+53,Tuktoyaktuk,CA,69.45,-133.04,-11.0,85,1.0,Snow
+54,Tuktoyaktuk,CA,69.45,-133.04,-11.0,85,1.0,Snow
+55,Severo-Kuril'sk,RU,50.68,156.12,5.72,62,4.57,Clouds
+56,Severo-Kuril'sk,RU,50.68,156.12,5.72,62,4.57,Clouds
+57,Mataura,NZ,-46.19,168.86,7.48,91,3.57,Rain
+58,Mataura,NZ,-46.19,168.86,7.48,91,3.57,Rain
+59,Hilo,US,19.73,-155.09,27.0,61,4.1,Clouds
+60,Hilo,US,19.73,-155.09,27.0,61,4.1,Clouds
+61,Flin Flon,CA,54.77,-101.86,0.24,82,3.18,Clear
+62,Flin Flon,CA,54.77,-101.86,0.24,82,3.18,Clear
+63,Busselton,AU,-33.65,115.33,18.33,95,0.89,Rain
+64,Busselton,AU,-33.65,115.33,18.33,95,0.89,Rain
+65,Nikolayevka,RU,53.13,47.2,8.75,71,2.99,Clear
+66,Nikolayevka,RU,53.13,47.2,8.75,71,2.99,Clear
+67,Rikitea,PF,-23.12,-134.97,23.0,73,7.4,Clouds
+68,Rikitea,PF,-23.12,-134.97,23.0,73,7.4,Clouds
+69,Husavik,IS,66.04,-17.34,5.0,52,14.9,Clouds
+70,Husavik,IS,66.04,-17.34,5.0,52,14.9,Clouds
+71,Palu,ID,-0.89,119.87,33.5,51,0.83,Rain
+72,Palu,ID,-0.89,119.87,33.5,51,0.83,Rain
+73,Sterling,US,39.01,-77.43,19.0,82,4.6,Rain
+74,Sterling,US,39.01,-77.43,19.0,82,4.6,Rain
+75,Bengkulu,ID,-3.8,102.27,29.28,64,1.7,Clouds
+76,Bengkulu,ID,-3.8,102.27,29.28,64,1.7,Clouds
+77,Paraíso,BO,-14.97,-65.6,23.08,85,0.81,Clouds
+78,Paraíso,CR,9.84,-83.87,23.0,73,5.7,Clouds
+79,Krutikha,RU,53.96,81.21,7.67,84,9.42,Rain
+80,Krutikha,RU,53.96,81.21,7.67,84,9.42,Rain
+81,Agadez,NE,19.75,10.25,26.18,14,5.05,Clear
+82,Agadez,NE,19.75,10.25,26.18,14,5.05,Clear
+83,Upernavik,GL,72.79,-56.15,-8.5,92,2.93,Clouds
+84,Upernavik,GL,72.79,-56.15,-8.5,92,2.93,Clouds
+85,Grand Island,US,40.92,-98.34,21.0,30,3.6,Clear
+86,Grand Island,US,40.92,-98.34,21.0,30,3.6,Clear
+87,La Ronge,CA,55.1,-105.28,5.0,65,3.1,Clouds
+88,La Ronge,CA,55.1,-105.28,5.0,65,3.1,Clouds
+89,Pevek,RU,69.7,170.31,-3.36,93,5.06,Clear
+90,Pevek,RU,69.7,170.31,-3.36,93,5.06,Clear
+91,Asău,RO,46.44,26.4,10.56,81,1.1,Rain
+92,Asău,RO,46.43,26.4,10.56,82,1.06,Rain
+93,Kapaa,US,22.08,-159.32,27.0,69,9.8,Clouds
+94,Kapaa,US,22.08,-159.32,27.0,69,9.8,Clouds
+95,Albany,US,42.6,-73.97,21.0,37,6.2,Clouds
+96,Albany,US,42.6,-73.97,21.0,37,6.2,Clouds
+97,Faanui,PF,-16.48,-151.75,28.01,77,5.58,Clear
+98,Faanui,PF,-16.48,-151.75,28.01,77,5.58,Clear
+99,Mosquera,CO,4.71,-74.23,14.0,71,1.0,Clouds
+100,Mosquera,CO,4.71,-74.23,14.0,71,1.0,Clouds
+101,Tautira,PF,-17.73,-149.15,31.0,66,1.5,Clouds
+102,Tautira,PF,-17.73,-149.15,31.0,66,1.5,Clouds
+103,Keti Bandar,PK,24.14,67.45,29.45,71,8.63,Clear
+104,Keti Bandar,PK,24.14,67.45,29.45,71,8.63,Clear
+105,Novy Urengoy,RU,66.09,76.68,-8.13,96,7.12,Clouds
+106,Novy Urengoy,RU,66.08,76.63,-8.18,96,7.11,Clouds
+107,Mar del Plata,AR,-38.0,-57.56,15.0,93,4.6,Clouds
+108,Mar del Plata,AR,-38.0,-57.56,15.0,93,4.6,Clouds
+109,Pontes e Lacerda,BR,-15.23,-59.34,21.56,69,1.17,Clouds
+110,Pontes e Lacerda,BR,-15.23,-59.34,21.56,69,1.17,Clouds
+111,Zaysan,KZ,47.47,84.87,18.99,41,9.95,Clouds
+112,Zaysan,KZ,47.47,84.87,18.99,41,9.95,Clouds
+113,Port Elizabeth,ZA,-33.92,25.57,14.0,100,3.6,Rain
+114,Port Elizabeth,ZA,-33.92,25.57,14.0,100,3.6,Rain
+115,Alamosa,US,37.47,-105.87,21.0,9,6.7,Clear
+116,Alamosa,US,37.47,-105.87,21.0,9,6.7,Clear
+117,Lubumbashi,CD,-11.66,27.48,14.04,63,1.43,Clear
+118,Lubumbashi,CD,-11.66,27.48,14.04,63,1.43,Clear
+119,Buta,CD,2.79,24.73,21.37,82,0.78,Clouds
+120,Buta,CD,2.79,24.73,21.37,82,0.78,Clouds
+121,Bethel,US,41.37,-73.41,17.22,67,0.99,Clear
+122,Bethel,US,41.37,-73.41,17.22,67,0.99,Clear
+123,Shoreview,US,45.08,-93.15,11.67,43,3.6,Clear
+124,Shoreview,US,45.08,-93.15,11.67,43,3.6,Clear
+125,Carnarvon,AU,-24.87,113.63,24.0,83,3.1,Clear
+126,Carnarvon,AU,-24.87,113.63,24.0,83,3.1,Clear
+127,New Norfolk,AU,-42.78,147.06,16.67,74,0.45,Clouds
+128,New Norfolk,AU,-42.78,147.06,16.67,74,0.45,Clouds
+129,Peniche,PT,39.36,-9.38,18.33,89,3.58,Clear
+130,Peniche,PT,39.36,-9.38,18.33,89,3.58,Clear
+131,Longyearbyen,SJ,78.22,15.64,-10.0,78,1.5,Clouds
+132,Longyearbyen,SJ,78.22,15.64,-10.0,78,1.5,Clouds
+133,Seydi,TM,39.48,62.91,21.96,49,6.98,Rain
+134,Seydi,TM,39.48,62.91,21.96,49,6.98,Rain
+135,Jamestown,US,42.1,-79.24,14.0,47,2.6,Clear
+136,Jamestown,US,42.1,-79.24,14.0,47,2.6,Clear
+137,Port Augusta,AU,-32.5,137.77,17.0,59,2.6,Clear
+138,Port Augusta,AU,-32.5,137.77,17.0,59,2.6,Clear
+139,Hong Kong,HK,22.29,114.16,30.0,70,1.79,Clear
+140,Hong Kong,HK,22.29,114.16,29.44,70,2.24,Clear
+141,Qaqortoq,GL,60.72,-46.03,0.0,95,1.0,Snow
+142,Qaqortoq,GL,60.72,-46.03,0.0,95,1.0,Snow
+143,Avarua,CK,-21.21,-159.78,27.0,74,3.6,Rain
+144,Avarua,CK,-21.21,-159.78,27.0,74,3.6,Rain
+145,Nome,US,64.5,-165.41,8.0,36,4.1,Clear
+146,Nome,US,64.5,-165.41,8.0,36,4.1,Clear
+147,Hobyo,SO,5.35,48.53,28.99,74,7.17,Clouds
+148,Hobyo,SO,5.35,48.53,28.99,74,7.17,Clouds
+149,Bluff,NZ,-46.6,168.33,8.53,76,8.03,Clouds
+150,Bluff,NZ,-46.6,168.33,8.53,76,8.03,Clouds
+151,Novoagansk,RU,61.94,76.66,0.26,90,5.71,Clouds
+152,Novoagansk,RU,61.94,76.66,0.26,90,5.71,Clouds
+153,Bubaque,GW,11.28,-15.83,25.38,70,5.53,Clouds
+154,Bubaque,GW,11.28,-15.83,25.38,70,5.53,Clouds
+155,Bredasdorp,ZA,-34.53,20.04,12.0,87,1.0,Clear
+156,Bredasdorp,ZA,-34.53,20.04,12.0,87,1.0,Clear
+157,Avera,US,33.19,-82.53,23.0,49,3.1,Clear
+158,Avera,US,33.19,-82.53,23.0,49,3.1,Clear
+159,Saskylakh,RU,71.92,114.08,-8.68,95,2.28,Clouds
+160,Saskylakh,RU,71.92,114.08,-8.68,95,2.28,Clouds
+161,Iqaluit,CA,63.75,-68.51,-12.0,78,8.2,Snow
+162,Iqaluit,CA,63.75,-68.51,-12.0,78,8.2,Snow
+163,Wajima,JP,37.4,136.9,26.0,50,4.1,Clouds
+164,Wajima,JP,37.4,136.9,26.0,50,4.1,Clouds
+165,Chivasso,IT,45.19,7.89,14.44,71,2.6,Clouds
+166,Chivasso,IT,45.19,7.89,14.44,71,2.6,Clouds
+167,Key West,US,24.56,-81.78,25.0,65,3.6,Clear
+168,Key West,US,24.56,-81.78,25.0,65,3.6,Clear
+169,Aklavik,CA,68.22,-135.01,-6.0,62,3.6,Clear
+170,Aklavik,CA,68.22,-135.01,-6.0,62,3.6,Clear
+171,Arkadak,RU,51.93,43.5,11.66,64,5.53,Clouds
+172,Arkadak,RU,51.93,43.5,11.66,64,5.53,Clouds
+173,Ayna,PE,-12.65,-73.92,14.86,44,1.37,Rain
+174,Ayna,PE,-12.65,-73.92,14.86,44,1.37,Rain
+175,Isangel,VU,-19.55,169.27,29.0,74,2.6,Clouds
+176,Isangel,VU,-19.55,169.27,29.0,74,2.6,Clouds
+177,Barrow,US,71.29,-156.79,-11.0,85,3.6,Clear
+178,Barrow,US,71.29,-156.79,-11.0,85,3.6,Clear
+179,Geraldton,AU,-28.77,114.6,24.0,73,4.1,Clouds
+180,Geraldton,AU,-28.77,114.6,24.0,73,4.1,Clouds
+181,Sitka,US,57.05,-135.33,8.0,87,7.2,Rain
+182,Sitka,US,57.05,-135.33,8.0,87,7.2,Rain
+183,Dikson,RU,73.51,80.55,-10.92,94,4.3,Clouds
+184,Dikson,RU,73.51,80.55,-10.92,94,4.3,Clouds
+185,Abu Dhabi,AE,24.47,54.37,28.33,69,3.6,Clear
+186,Abu Dhabi,AE,24.47,54.37,28.33,69,3.6,Clear
+187,Alice Springs,AU,-23.7,133.88,18.0,45,5.7,Clear
+188,Alice Springs,AU,-23.7,133.88,18.0,45,5.7,Clear
+189,Santiago del Estero,AR,-27.8,-64.26,18.67,81,2.13,Clouds
+190,Santiago del Estero,AR,-27.8,-64.26,18.67,81,2.13,Clouds
+191,Dul'durga,RU,50.68,113.59,13.05,27,7.25,Clear
+192,Hervey Bay,AU,-25.3,152.85,21.67,59,4.47,Rain
+193,Hervey Bay,AU,-25.3,152.85,21.67,59,4.47,Rain
+194,Zhigansk,RU,66.77,123.37,-1.34,94,1.87,Clear
+195,Zhigansk,RU,66.77,123.37,-1.34,94,1.87,Clear
+196,Mīnāb,IR,27.15,57.08,21.0,77,2.1,Clear
+197,Kropotkin,RU,45.44,40.58,12.87,89,2.05,Clouds
+198,Kropotkin,RU,45.44,40.58,12.87,89,2.05,Clouds
+199,Lebu,CL,-37.62,-73.65,11.68,82,3.23,Clouds
+200,Lebu,CL,-37.62,-73.65,11.68,82,3.23,Clouds
+201,Adrar,MR,20.5,-10.07,28.9,12,2.37,Clear
+202,Adrar,MR,20.5,-10.07,28.9,12,2.37,Clear
+203,Grândola Municipality,PT,38.19,-8.61,17.22,90,0.89,Clear
+204,Grândola,PT,38.18,-8.57,17.22,90,1.79,Clear
+205,San Andrés,AR,-34.56,-58.55,17.78,82,2.6,Clouds
+206,San Andrés,CO,12.58,-81.7,28.0,78,4.6,Clouds
+207,Lékoni,GA,-1.59,14.26,24.11,74,0.88,Rain
+208,Lékoni,GA,-1.58,14.26,23.98,74,0.89,Rain
+209,Forsytheganj,BY,52.63,29.73,9.88,92,2.15,Rain
+210,Angoche,MZ,-16.23,39.91,23.39,86,3.75,Rain
+211,Angoche,MZ,-16.23,39.91,23.39,86,3.75,Rain
+212,Hithadhoo,MV,-0.6,73.08,29.87,73,5.48,Clouds
+213,Hithadhoo,MV,-0.6,73.08,29.87,73,5.48,Clouds
+214,Butaritari,KI,3.07,172.79,28.14,80,4.04,Clouds
+215,Butaritari,KI,3.07,172.79,28.14,80,4.04,Clouds
+216,Shihezi,CN,44.3,86.03,25.49,14,3.65,Clouds
+217,Shihezi,CN,44.3,86.03,25.49,14,3.65,Clouds
+218,Sabang,ID,5.89,95.32,28.71,70,2.58,Clouds
+219,Sabang,ID,5.89,95.32,28.71,70,2.58,Clouds
+220,Assiut,EG,27.18,31.18,20.83,28,2.07,Clouds
+221,Assiut,EG,27.18,31.18,20.83,28,2.07,Clouds
+222,Castro,BR,-24.79,-50.01,10.81,72,2.87,Clear
+223,Castro,BR,-24.79,-50.01,10.81,72,2.87,Clear
+224,Marabu,MY,4.41,114.01,31.0,79,1.5,Clouds
+225,Marabu,MY,4.41,114.01,31.0,79,1.5,Clouds
+226,Yellowknife,CA,62.46,-114.35,9.0,57,1.0,Clouds
+227,Yellowknife,CA,62.46,-114.35,9.0,57,1.0,Clouds
+228,Marzuq,YE,14.4,46.47,25.2,41,1.85,Clouds
+229,Marzuq,YE,14.4,46.47,25.2,41,1.85,Clouds
+230,Khatanga,RU,71.97,102.5,-9.58,96,4.84,Clouds
+231,Khatanga,RU,71.97,102.5,-9.58,96,4.84,Clouds
+232,Hengyang,CN,26.89,112.61,31.66,56,3.3,Clouds
+233,Hengyang,CN,26.89,112.61,31.66,56,3.3,Clouds
+234,Ondjiva,AO,-17.07,15.73,16.08,30,2.23,Clear
+235,Ondjiva,AO,-17.07,15.73,16.08,30,2.23,Clear
+236,Nanortalik,GL,60.14,-45.24,3.15,93,6.85,Rain
+237,Nanortalik,GL,60.14,-45.24,3.15,93,6.85,Rain
+238,Mughal Sarāi,IN,25.3,83.12,28.0,61,4.6,Haze
+239,Ponta Delgada,PT,37.73,-25.67,15.0,82,9.8,Clouds
+240,Ponta Delgada,PT,37.73,-25.67,15.0,82,9.8,Clouds
+241,Kununurra,AU,-15.77,128.73,28.0,18,5.7,Clouds
+242,Kununurra,AU,-15.77,128.73,28.0,18,5.7,Clouds
+243,Kargil,IN,34.57,76.1,3.81,17,1.55,Clouds
+244,Kargil,IN,34.57,76.1,3.81,17,1.55,Clouds
+245,Arrondissement de Morlaix,FR,48.58,-4.0,13.0,93,1.0,Clouds
+246,Arrondissement de Morlaix,FR,48.58,-4.0,13.0,100,1.0,Clouds
+247,Kalmanka,RU,52.9,83.54,10.0,81,4.0,Rain
+248,Kalmanka,RU,52.9,83.54,10.0,81,4.0,Rain
+249,Oranjestad,AW,12.52,-70.03,28.0,78,9.8,Clouds
+250,Oranjestad,AW,12.52,-70.03,28.0,78,9.8,Clouds
+251,Sabha,LY,27.04,14.43,20.7,28,4.7,Clear
+252,Sabha,LY,27.04,14.43,20.7,28,4.7,Clear
+253,Cabo San Lucas,MX,22.89,-109.91,29.0,25,7.2,Clouds
+254,Cabo San Lucas,MX,22.89,-109.91,29.0,25,7.2,Clouds
+255,Peruíbe,BR,-24.32,-47.0,18.12,79,0.84,Clouds
+256,Peruíbe,BR,-24.32,-47.0,18.12,79,0.84,Clouds
+257,Matagalpa,NI,12.93,-85.92,22.3,61,2.58,Clouds
+258,Matagalpa,NI,12.93,-85.92,22.3,61,2.58,Clouds
+259,Brae,GB,60.4,-1.35,1.0,70,2.1,Clear
+260,Brae,GB,60.4,-1.35,1.0,70,2.1,Clear
+261,Okhotsk,RU,59.38,143.3,3.46,75,6.93,Clouds
+262,Okhotsk,RU,59.38,143.3,3.46,75,6.93,Clouds
+263,Chokurdakh,RU,70.63,147.92,-9.06,94,2.38,Clouds
+264,Chokurdakh,RU,70.63,147.92,-9.06,94,2.38,Clouds
+265,Behbahān,IR,30.6,50.24,22.0,46,2.1,Clouds
+266,Behbahān,IR,30.6,50.24,22.0,46,2.1,Clouds
+267,Sinnamary,GF,5.38,-52.95,25.77,89,5.17,Rain
+268,Sinnamary,GF,5.38,-52.95,25.77,89,5.17,Rain
+269,Parkes,AU,-33.13,148.18,16.11,58,0.89,Clear
+270,Parkes,AU,-33.13,148.18,16.11,58,0.89,Clear
+271,Port Hedland,AU,-20.32,118.57,29.0,16,7.2,Clear
+272,Port Hedland,AU,-20.32,118.57,29.0,16,7.2,Clear
+273,Clyde River,CA,70.47,-68.59,-15.0,71,2.45,Clear
+274,Clyde River,CA,70.47,-68.59,-15.0,71,2.45,Clear
+275,Aykhal,RU,66.0,111.5,6.0,30,2.0,Clouds
+276,Aykhal,RU,66.0,111.5,6.0,30,2.0,Clouds
+277,Arraial do Cabo,BR,-22.97,-42.03,21.75,73,4.58,Rain
+278,Arraial do Cabo,BR,-22.97,-42.03,21.75,73,4.58,Rain
+279,Turki,RU,51.99,43.27,11.3,65,4.95,Clouds
+280,Turki,RU,51.99,43.27,11.3,65,4.95,Clouds
+281,Tasiilaq,GL,65.61,-37.64,-1.0,92,10.8,Snow
+282,Tasiilaq,GL,65.61,-37.64,-1.0,92,10.8,Snow
+283,Tambovka,RU,50.1,128.05,11.0,20,4.0,Clouds
+284,Tambovka,RU,50.1,128.05,11.0,20,4.0,Clouds
+285,Amasya Province,TR,40.67,35.83,11.0,87,2.42,Clouds
+286,Frederick,US,39.47,-77.4,18.0,88,2.6,Rain
+287,Frederick,US,39.47,-77.4,18.0,88,2.6,Rain
+288,Kieta,PG,-6.22,155.63,30.03,65,2.04,Rain
+289,Kieta,PG,-6.22,155.63,30.03,65,2.04,Rain
+290,Presidencia Roque Sáenz Peña,AR,-26.79,-60.44,18.14,56,2.98,Clouds
+291,Presidencia Roque Sáenz Peña,AR,-26.79,-60.44,18.14,56,2.98,Clouds
+292,Tamiahua,MX,21.27,-97.45,25.62,89,3.54,Clear
+293,Tamiahua,MX,21.27,-97.45,25.62,89,3.54,Clear
+294,Westport,US,41.14,-73.36,18.33,67,3.6,Clear
+295,Westport,US,41.14,-73.36,18.33,67,3.6,Clear
+296,Lüderitz,NA,-26.65,15.16,17.5,63,5.91,Clouds
+297,Lüderitz,NA,-26.65,15.16,17.5,63,5.91,Clouds
+298,Manaure,CO,11.78,-72.44,26.98,78,6.49,Clouds
+299,Manaure,CO,11.78,-72.44,26.98,78,6.49,Clouds
+300,Oddur,SO,4.12,43.89,23.36,76,5.18,Clouds
+301,Oddur,SO,4.12,43.89,23.36,76,5.18,Clouds
+302,Evensk,RU,61.95,159.23,-0.99,94,8.02,Clouds
+303,Evensk,RU,61.95,159.23,-0.99,94,8.02,Clouds
+304,Grindavik,IS,63.84,-22.43,6.0,87,8.2,Clouds
+305,Grindavik,IS,63.84,-22.43,6.0,87,8.2,Clouds
+306,Celestún,MX,20.87,-90.4,27.99,71,7.2,Clouds
+307,Somotillo,NI,13.04,-86.91,28.88,51,0.93,Clouds
+308,Somotillo,NI,13.04,-86.91,28.88,51,0.93,Clouds
+309,Kiama,AU,-34.68,150.87,19.44,51,0.45,Clear
+310,Kiama,AU,-34.68,150.87,19.44,51,0.45,Clear
+311,Kaitangata,NZ,-46.28,169.85,10.56,76,6.26,Rain
+312,Kaitangata,NZ,-46.28,169.85,10.56,76,6.26,Rain
+313,Mont-Dore,NC,-22.28,166.58,23.0,78,2.1,Clouds
+314,Mont-Dore,NC,-22.28,166.58,23.0,78,2.1,Clouds
+315,Kamenka,RU,51.32,42.77,12.22,61,5.81,Clouds
+316,Kamenka,RU,51.32,42.77,12.22,61,5.81,Clouds
+317,Águilas,ES,37.41,-1.58,16.67,53,0.89,Clouds
+318,Águilas,ES,37.41,-1.58,16.67,53,0.89,Clouds
+319,Chui,UY,-33.7,-53.46,12.84,87,2.72,Clouds
+320,Chui,UY,-33.7,-53.46,12.84,87,2.72,Clouds
+321,Ilulissat,GL,69.22,-51.1,-1.0,86,4.1,Clouds
+322,Ilulissat,GL,69.22,-51.1,-1.0,86,4.1,Clouds
+323,Pochutla,MX,15.74,-96.47,28.89,78,1.47,Rain
+324,Pochutla,MX,15.74,-96.47,28.89,78,1.47,Rain
+325,Homer,US,59.64,-151.55,9.0,49,1.5,Clouds
+326,Homer,US,59.64,-151.55,9.0,49,1.5,Clouds
+327,Saint-Philippe,RE,-21.36,55.77,24.0,78,3.6,Clouds
+328,Saint-Philippe,RE,-21.36,55.77,24.0,78,3.6,Clouds
+329,Caba,PH,16.43,120.34,32.01,61,2.58,Clouds
+330,Caba,PH,16.43,120.34,32.01,61,2.58,Clouds
+331,Abja-Paluoja,EE,58.13,25.35,6.67,92,0.45,Clouds
+332,Abja-Paluoja,EE,58.13,25.35,6.67,92,0.45,Clouds
+333,Elizabeth City,US,36.29,-76.25,23.0,69,4.6,Clear
+334,Elizabeth City,US,36.29,-76.25,23.0,69,4.6,Clear
+335,Muroto-misakicho,JP,33.28,134.15,22.0,83,4.6,Clouds
+336,Puerto Ayora,EC,-0.74,-90.35,25.0,92,0.45,Clear
+337,Puerto Ayora,EC,-0.74,-90.35,25.0,92,0.45,Clear
+338,Saint Anthony,US,45.02,-93.22,12.0,43,3.1,Clear
+339,Saint Anthony,US,45.02,-93.22,12.0,43,3.1,Clear
+340,Porto Belo,BR,-27.16,-48.55,17.0,82,3.1,Clouds
+341,Porto Belo,BR,-27.16,-48.55,17.0,82,3.1,Clouds
+342,Morros,BR,-9.45,-46.3,22.44,78,1.84,Clouds
+343,Morros,BR,-9.45,-46.3,22.44,78,1.84,Clouds
+344,Ribeira Grande,PT,38.52,-28.7,15.61,76,11.66,Rain
+345,Ribeira Grande,PT,38.52,-28.7,15.61,76,11.66,Rain
+346,Stanley,GB,54.87,-1.7,8.33,93,1.5,Haze
+347,Stanley,GB,54.87,-1.7,8.33,93,1.5,Haze
+348,Richards Bay,ZA,-28.78,32.04,20.06,82,4.36,Rain
+349,Richards Bay,ZA,-28.78,32.04,20.06,82,4.36,Rain
+350,Waipawa,NZ,-41.41,175.52,18.0,72,8.2,Clouds
+351,Waipawa,NZ,-41.41,175.52,18.0,72,8.2,Clouds
+352,San Patricio,MX,19.22,-104.7,22.43,83,2.51,Clear
+353,San Patricio,MX,19.22,-104.7,22.43,83,2.51,Clear
+354,Callaguip,PH,18.07,120.49,32.0,62,2.6,Clouds
+355,Callaguip,PH,18.07,120.49,32.0,62,2.6,Clouds
+356,Tiksi,RU,71.69,128.87,-4.2,93,3.91,Clouds
+357,Tiksi,RU,71.69,128.87,-4.2,93,3.91,Clouds
+358,Norman Wells,CA,65.28,-126.83,0.0,93,5.1,Clouds
+359,Norman Wells,CA,65.28,-126.83,0.0,93,5.1,Clouds
+360,Thompson,CA,55.74,-97.86,2.0,43,2.6,Clouds
+361,Thompson,CA,55.74,-97.86,2.0,43,2.6,Clouds
+362,Sloboda,RU,51.14,40.3,13.33,80,5.96,Clouds
+363,Sloboda,RU,51.14,40.3,13.33,80,5.96,Clouds
+364,Padang,ID,-0.95,100.35,30.68,59,1.97,Clear
+365,Padang,ID,-0.95,100.35,30.68,59,1.97,Clear
+366,Faya,SA,18.39,42.45,20.0,48,1.06,Clouds
+367,Faya,SA,18.39,42.45,20.0,48,1.06,Clouds
+368,Pangnirtung,CA,66.15,-65.71,-13.07,90,0.74,Clouds
+369,Pangnirtung,CA,66.15,-65.71,-13.07,90,0.74,Clouds
+370,Simbahan,PH,6.3,120.58,29.06,68,1.49,Clouds
+371,Simbahan,PH,6.3,120.58,29.06,68,1.49,Clouds
+372,Iranshahr,IR,27.2,60.68,24.0,38,2.1,Clear
+373,Iranshahr,IR,27.2,60.68,24.0,38,2.1,Clear
+374,Ancud,CL,-41.87,-73.82,11.67,100,2.1,Clouds
+375,Ancud,CL,-41.87,-73.82,11.67,100,2.1,Clouds
+376,Kimbe,PG,-5.55,150.14,32.24,61,2.24,Rain
+377,Kimbe,PG,-5.55,150.14,32.24,61,2.24,Rain
+378,Pangoa,PE,-12.12,-73.0,20.53,79,0.6,Rain
+379,Pangoa,PE,-12.12,-73.0,20.53,79,0.6,Rain
+380,Cherskiy,RU,68.75,161.3,-0.79,97,1.66,Clouds
+381,Cherskiy,RU,68.75,161.3,-0.79,97,1.66,Clouds
+382,Palmer,US,42.16,-72.33,15.0,66,2.6,Clear
+383,Palmer,US,42.16,-72.33,15.0,66,2.6,Clear
+384,Yambio,SS,4.57,28.4,19.98,80,0.83,Rain
+385,Yambio,SS,4.57,28.4,19.98,80,0.83,Rain
+386,Bandarbeyla,SO,9.49,50.81,28.68,77,2.85,Rain
+387,Bandarbeyla,SO,9.49,50.81,28.68,77,2.85,Rain
+388,Tazmalt,DZ,36.39,4.4,15.0,82,3.1,Clouds
+389,Tazmalt,DZ,36.39,4.4,15.0,82,3.1,Clouds
+390,Antalaha,MG,-14.9,50.28,22.92,86,2.72,Clouds
+391,Antalaha,MG,-14.9,50.28,22.92,86,2.72,Clouds
+392,Arrondissement de Privas,FR,44.58,4.5,12.22,83,1.94,Clouds
+393,Arrondissement de Privas,FR,44.58,4.5,12.22,82,1.94,Clouds
+394,Ulaangom,MN,49.98,92.07,17.16,21,1.79,Clouds
+395,Ulaangom,MN,49.98,92.07,17.16,21,1.79,Clouds
+396,Te Anau,NZ,-45.42,167.72,10.05,67,2.12,Clouds
+397,Te Anau,NZ,-45.42,167.72,10.05,67,2.12,Clouds
+398,Opuwo,NA,-18.06,13.84,16.01,23,1.9,Clear
+399,Opuwo,NA,-18.06,13.84,16.01,23,1.9,Clear
+400,Peleduy,RU,59.63,112.74,12.0,40,0.42,Clouds
+401,Peleduy,RU,59.63,112.74,12.0,40,0.42,Clouds
+402,The Valley,AI,18.22,-63.06,27.0,78,3.6,Clouds
+403,The Valley,AI,18.22,-63.06,27.0,78,3.6,Clouds
+404,Itaituba,BR,-4.28,-55.98,23.96,96,0.62,Clouds
+405,Itaituba,BR,-4.28,-55.98,23.96,96,0.62,Clouds
+406,Tres Arroyos,AR,-38.37,-60.28,12.12,88,4.89,Clouds
+407,Tres Arroyos,AR,-38.37,-60.28,12.12,88,4.89,Clouds
+408,Alofi,NU,-19.06,-169.92,28.0,78,2.6,Clear
+409,Alofi,NU,-19.06,-169.92,28.0,78,2.6,Clear
+410,Vila Franca do Campo,PT,37.72,-25.43,15.0,82,9.8,Clouds
+411,Vila Franca do Campo,PT,37.72,-25.43,15.0,82,9.8,Clouds
+412,George Town,MY,5.41,100.34,30.0,79,1.89,Clouds
+413,George Town,MY,5.41,100.34,30.0,79,1.89,Clouds
+414,Zlobin,HR,45.29,14.65,1.11,86,2.06,Clouds
+415,Zlobin,HR,45.29,14.65,1.11,86,2.06,Clouds
+416,Fairbanks,US,64.84,-147.72,11.0,27,7.2,Clear
+417,Fairbanks,US,64.84,-147.72,11.0,27,7.2,Clear
+418,Dunedin,NZ,-45.87,170.5,15.56,70,0.45,Clouds
+419,Dunedin,NZ,-45.87,170.5,15.56,70,0.45,Clouds
+420,Margate,GB,51.38,1.39,10.56,75,3.85,Clouds
+421,Margate,GB,51.38,1.39,10.56,75,3.85,Clouds
+422,Yatou,CN,37.15,122.38,13.56,56,7.58,Clouds
+423,Yatou,CN,37.15,122.38,13.56,56,7.58,Clouds
+424,Te Kauwhata,NZ,-37.4,175.15,19.44,68,6.7,Rain
+425,Te Kauwhata,NZ,-37.4,175.15,19.44,68,6.7,Rain
+426,Grand Gaube,MU,-20.01,57.66,25.56,78,2.68,Clouds
+427,Grand Gaube,MU,-20.01,57.66,25.56,78,2.68,Clouds
+428,Cao Bang,VN,22.67,106.25,30.61,58,3.13,Clouds
+429,Cao Bang,VN,22.67,106.25,30.61,58,3.13,Clouds
+430,Yulara,AU,-25.24,130.99,19.0,39,7.2,Clear
+431,Yulara,AU,-25.24,130.99,19.0,39,7.2,Clear
+432,Uray,RU,60.12,64.78,2.88,76,2.89,Clear
+433,Uray,RU,60.12,64.78,2.88,76,2.89,Clear
+434,Kiryat Gat,IL,31.61,34.76,15.0,77,2.6,Clouds
+435,Kiryat Gat,IL,31.61,34.76,15.0,77,2.1,Clear
+436,Tuban,ID,-6.9,112.06,29.52,68,2.83,Clear
+437,Tuban,ID,-6.9,112.06,29.52,68,2.83,Clear
+438,Charter Township of Clinton,US,42.59,-82.92,11.11,61,4.1,Clear
+439,Beringovskiy,RU,63.05,179.32,-1.11,94,1.58,Clear
+440,Beringovskiy,RU,63.05,179.32,-1.11,94,1.58,Clear
+441,Tindwāri,IN,25.62,80.53,34.0,26,3.8,Clouds
+442,Los Barrios,ES,36.18,-5.49,19.0,77,4.1,Clouds
+443,Los Barrios,ES,36.18,-5.49,19.0,77,4.1,Clouds
+444,Vikeså,NO,58.63,6.08,6.0,70,4.6,Clouds
+445,Vikeså,NO,58.64,6.09,6.0,70,4.6,Clouds
+446,Teknāf,BD,20.86,92.31,29.95,61,2.71,Clouds
+447,Leningradskiy,RU,69.38,178.42,0.16,90,0.58,Clear
+448,Leningradskiy,RU,69.38,178.42,0.16,90,0.58,Clear
+449,San Policarpo,PH,12.18,125.51,28.69,86,5.68,Rain
+450,San Policarpo,PH,12.18,125.51,28.69,86,5.68,Rain
+451,Huarmey,PE,-10.07,-78.15,20.57,82,4.41,Clouds
+452,Huarmey,PE,-10.07,-78.15,20.57,82,4.41,Clouds
+453,Port Alfred,ZA,-33.59,26.89,15.0,98,1.79,Rain
+454,Port Alfred,ZA,-33.59,26.89,15.0,98,1.79,Rain
+455,Rocha,UY,-34.48,-54.33,10.27,89,2.12,Clear
+456,Rocha,UY,-34.48,-54.33,10.27,89,2.12,Clear
+457,Soe,ID,-9.86,124.28,25.84,49,3.48,Clouds
+458,Soe,ID,-9.86,124.28,25.84,49,3.48,Clouds
+459,Kavaratti,IN,10.57,72.64,30.05,78,5.04,Clouds
+460,Kavaratti,IN,10.57,72.64,30.05,78,5.04,Clouds
+461,Prievidza,SK,48.77,18.63,4.44,80,1.0,Clear
+462,Prievidza,SK,48.77,18.63,4.44,80,1.0,Clear
+463,Elko,US,41.0,-115.5,13.33,30,8.05,Clouds
+464,Elko,US,41.0,-115.5,13.33,30,8.05,Clouds
+465,Rongcheng,CN,30.63,117.85,28.89,80,1.27,Clouds
+466,Rongcheng,CN,30.63,117.85,28.89,80,1.27,Clouds
+467,Acapulco de Juárez,MX,16.86,-99.89,26.0,88,3.31,Clear
+468,Acapulco de Juárez,MX,16.86,-99.89,26.0,88,3.31,Clear
+469,Torbay,CA,47.67,-52.73,2.22,100,5.1,Rain
+470,Torbay,CA,47.67,-52.73,2.22,100,5.1,Rain
+471,Nikolskoye,RU,59.7,30.79,4.44,100,1.28,Fog
+472,Nikolskoye,RU,59.7,30.79,4.44,100,1.28,Fog
+473,Abhā,SA,18.22,42.51,20.0,48,1.57,Clouds
+474,Lompoc,US,34.64,-120.46,15.0,58,5.1,Clear
+475,Lompoc,US,34.64,-120.46,15.0,58,5.1,Clear
+476,Arman',RU,59.7,150.17,1.83,84,10.58,Clouds
+477,Siavonga,ZM,-16.54,28.71,20.93,57,2.46,Clear
+478,Siavonga,ZM,-16.54,28.71,20.93,57,2.46,Clear
+479,Atasū,KZ,48.68,71.64,9.46,41,5.75,Clear
+480,Gēdo,ET,9.02,37.45,13.21,46,0.36,Rain
+481,Fort Nelson,CA,58.81,-122.7,12.0,54,9.3,Clouds
+482,Fort Nelson,CA,58.81,-122.7,12.0,54,9.3,Clouds
+483,Batemans Bay,AU,-35.72,150.18,18.89,44,0.89,Clouds
+484,Batemans Bay,AU,-35.72,150.18,18.89,44,0.89,Clouds
+485,Bambous Virieux,MU,-20.34,57.76,25.56,100,4.6,Clouds
+486,Bambous Virieux,MU,-20.34,57.76,25.56,100,4.6,Clouds
+487,Ostrovnoy,RU,68.05,39.51,1.84,95,4.65,Rain
+488,Ostrovnoy,RU,68.05,39.51,1.84,95,4.65,Rain
+489,Umluj,SA,25.02,37.27,26.59,37,3.33,Clear
+490,Itarema,BR,-2.92,-39.92,25.37,88,3.72,Clouds
+491,Itarema,BR,-2.92,-39.92,25.37,88,3.72,Clouds
+492,Valley City,US,46.92,-98.0,6.0,70,3.1,Clear
+493,Valley City,US,46.92,-98.0,6.0,70,3.1,Clear
+494,Maumere,ID,-8.62,122.21,29.67,66,2.95,Clouds
+495,Maumere,ID,-8.62,122.21,29.67,66,2.95,Clouds
+496,Katsuura,JP,35.13,140.3,19.44,86,5.08,Rain
+497,Katsuura,JP,35.13,140.3,19.44,86,5.08,Rain
+498,Bambanglipuro,ID,-7.95,110.28,30.37,64,2.11,Clear
+499,Bambanglipuro,ID,-7.95,110.28,30.37,64,2.11,Clear
+500,Lata,PT,40.16,-8.33,17.78,95,1.31,Clear
+501,Lata,PT,40.16,-8.33,17.78,95,1.31,Clear
+502,Pandan,PH,14.05,124.17,30.61,73,4.82,Rain
+503,Pandan,PH,14.05,124.17,30.61,73,4.82,Rain
+504,Nagar,IN,27.43,77.1,29.95,40,2.69,Clear
+505,Nagar,IN,27.43,77.1,29.95,40,2.69,Clear
+506,Jiangyou,CN,31.77,104.72,31.07,27,3.07,Clouds
+507,Jiangyou,CN,31.77,104.72,31.07,27,3.07,Clouds
+508,Lorengau,PG,-2.02,147.27,29.56,76,2.52,Rain
+509,Lorengau,PG,-2.02,147.27,29.56,76,2.52,Rain
+510,Coari,BR,-4.08,-63.14,24.08,96,0.33,Rain
+511,Coari,BR,-4.08,-63.14,24.08,96,0.33,Rain
+512,Thinadhoo,MV,0.53,72.93,28.7,79,5.57,Clouds
+513,Thinadhoo,MV,0.53,72.93,28.7,79,5.57,Clouds
+514,Staraya Mayna,RU,54.6,48.95,4.0,74,2.79,Clear
+515,Staraya Mayna,RU,54.6,48.95,4.0,74,2.79,Clear
+516,Andenes,NO,69.31,16.12,4.0,86,2.6,Rain
+517,Andenes,NO,69.31,16.12,4.0,86,2.6,Rain
+518,Nichinan,JP,31.6,131.37,22.0,88,3.1,Clouds
+519,Nichinan,JP,31.6,131.37,22.0,88,3.1,Clouds
+520,Rio Grande,BR,-32.03,-52.1,13.33,93,4.67,Clouds
+521,Rio Grande,BR,-32.03,-52.1,13.33,93,4.67,Clouds
+522,Matara,LK,5.95,80.54,29.14,78,2.26,Rain
+523,Matara,LK,5.95,80.54,29.14,78,2.26,Rain
+524,Trujillo,PE,-8.12,-79.03,21.54,79,3.4,Clouds
+525,Trujillo,PE,-8.12,-79.03,21.54,79,3.4,Clouds
+526,Mount Isa,AU,-20.73,139.5,24.0,25,5.1,Clear
+527,Mount Isa,AU,-20.73,139.5,24.0,25,5.1,Clear
+528,Karaton,ID,-6.34,106.1,31.0,70,3.6,Clouds
+529,Karaton,ID,-6.34,106.1,31.0,70,3.6,Clouds
+530,Chiapilla,MX,16.52,-92.73,28.41,46,0.66,Rain
+531,Chiapilla,MX,16.52,-92.73,28.41,46,0.66,Rain
+532,Kologriv,RU,58.83,44.32,9.85,89,3.26,Rain
+533,Kologriv,RU,58.83,44.32,9.85,89,3.26,Rain
+534,Fairview,US,40.81,-74.0,23.33,43,2.6,Clear
+535,Fairview,US,40.81,-74.0,23.33,43,2.6,Clear
+536,Shāhpura,IN,27.38,75.97,26.0,74,1.0,Haze
+537,Inhambane,MZ,-23.86,35.38,21.15,70,2.25,Clear
+538,Inhambane,MZ,-23.86,35.38,21.15,70,2.25,Clear
+539,Hokitika,NZ,-42.72,170.97,14.01,84,0.97,Rain
+540,Hokitika,NZ,-42.72,170.97,14.01,84,0.97,Rain
+541,Severo-Yeniseyskiy,RU,60.37,93.04,8.15,73,2.13,Rain
+542,Severo-Yeniseyskiy,RU,60.37,93.04,8.15,73,2.13,Rain
+543,Los Llanos de Aridane,ES,28.66,-17.92,22.0,46,6.2,Clear
+544,Los Llanos de Aridane,ES,28.66,-17.92,22.0,46,6.2,Clear
+545,Sambava,MG,-14.27,50.17,23.89,85,3.77,Clouds
+546,Sambava,MG,-14.27,50.17,23.89,85,3.77,Clouds
+547,Camapuã,BR,-19.53,-54.04,21.29,59,2.37,Clouds
+548,Camapuã,BR,-19.53,-54.04,21.29,59,2.37,Clouds
+549,Lavrentiya,RU,65.58,-171.0,0.85,89,0.91,Clear
+550,Lavrentiya,RU,65.58,-171.0,0.85,89,0.91,Clear
+551,Taunggyi,MM,20.78,97.03,24.98,38,2.57,Clear
+552,Taunggyi,MM,20.78,97.03,24.98,38,2.57,Clear
+553,Norsup,VU,-16.07,167.38,29.0,74,2.1,Clouds
+554,Norsup,VU,-16.07,167.38,29.0,74,2.1,Clouds
+555,Mount Gambier,AU,-37.83,140.77,12.0,81,3.1,Clouds
+556,Mount Gambier,AU,-37.83,140.77,12.0,81,3.1,Clouds
+557,Half Moon Bay,US,37.46,-122.43,16.67,76,5.7,Clear
+558,Half Moon Bay,US,37.46,-122.43,16.67,76,5.7,Clear
+559,Ivybridge,GB,50.39,-3.92,9.44,94,2.43,Clouds
+560,Ivybridge,GB,50.39,-3.92,9.44,94,2.43,Clouds
+561,Saint George,US,37.1,-113.58,28.0,13,3.6,Clear
+562,Saint George,US,37.1,-113.58,28.0,13,3.6,Clear
+563,Shache,CN,38.42,77.24,22.87,19,3.18,Clouds
+564,Shache,CN,38.42,77.24,22.87,19,3.18,Clouds
+565,Hambantota,LK,6.12,81.12,29.26,73,2.88,Rain
+566,Hambantota,LK,6.12,81.12,29.26,73,2.88,Rain
+567,Athens,GR,37.98,23.72,16.67,59,4.1,Clouds
+568,Athens,GR,37.98,23.72,16.67,59,4.1,Clouds
+569,Harper,LR,4.38,-7.72,27.08,85,2.52,Clouds
+570,Harper,LR,4.38,-7.72,27.08,85,2.52,Clouds
+571,Rosarito,MX,32.33,-117.03,18.89,82,4.1,Clear
+572,Rosarito,MX,32.33,-117.03,18.89,82,4.1,Clear
+573,Mahébourg,MU,-20.41,57.7,24.0,100,4.6,Clouds
+574,Coquimbo,CL,-29.95,-71.34,13.0,87,1.5,Clear
+575,Coquimbo,CL,-29.95,-71.34,13.0,87,1.5,Clear
+576,Le Vauclin,MQ,14.55,-60.84,27.0,78,5.1,Clouds
+577,Le Vauclin,MQ,14.55,-60.84,27.0,78,5.1,Clouds
+578,Golden,US,39.76,-105.22,18.33,42,10.3,Clouds
+579,Golden,US,39.76,-105.22,18.33,42,10.3,Clouds
+580,Port Blair,IN,11.67,92.75,30.43,64,3.61,Clear
+581,Port Blair,IN,11.67,92.75,30.43,64,3.61,Clear
+582,Gursarāi,IN,25.61,79.18,33.21,28,3.39,Clouds
+583,São Filipe Municipality,CV,14.93,-24.43,17.8,64,5.87,Clear
+584,São Filipe,CV,14.9,-24.5,24.42,65,5.79,Clear
+585,Cape Town,ZA,-33.93,18.42,12.78,93,0.5,Clouds
+586,Cape Town,ZA,-33.93,18.42,12.78,93,0.5,Clouds
+587,Tayoltita,MX,24.08,-105.93,22.74,35,1.96,Clouds
+588,Tayoltita,MX,24.08,-105.93,22.74,35,1.96,Clouds
+589,Kavieng,PG,-2.57,150.8,29.18,77,4.6,Rain
+590,Kavieng,PG,-2.57,150.8,29.18,77,4.6,Rain
+591,Khāsh,IR,28.22,61.22,23.29,22,1.7,Clear
+592,Khāsh,IR,28.22,61.22,23.29,22,1.7,Clear
+593,Honningsvåg,NO,70.98,25.97,2.38,96,0.3,Rain
+594,Honningsvåg,NO,70.98,25.97,2.38,96,0.3,Rain
+595,Międzyrzec Podlaski,PL,51.99,22.78,6.84,84,3.31,Clouds
+596,Międzyrzec Podlaski,PL,51.99,22.78,6.84,84,3.31,Clouds
+597,Santa Cruz de la Sierra,BO,-17.8,-63.17,24.0,83,2.1,Clouds
+598,Santa Cruz,MA,30.42,-9.6,17.0,93,3.6,Clouds
+599,Constitución,AR,-34.63,-58.39,16.67,82,2.6,Clouds
+600,Constitución,CL,-35.33,-72.42,13.91,70,3.06,Clouds
+601,Fortuna,US,40.6,-124.16,13.33,71,4.6,Clear
+602,Fortuna,US,40.6,-124.16,13.33,71,4.6,Clear
+603,Boyuibe,BO,-20.42,-63.28,21.11,63,1.55,Clouds
+604,Boyuibe,BO,-20.42,-63.28,21.11,63,1.55,Clouds
+605,Port Said,EG,31.26,32.28,19.31,73,3.79,Clear
+606,Port Said,EG,31.26,32.28,19.31,73,3.79,Clear
+607,Nizhniy Bestyakh,RU,61.96,129.91,5.0,25,2.0,Clear
+608,Nizhniy Bestyakh,RU,61.96,129.91,5.0,25,2.0,Clear
+609,Obo,CF,5.4,26.49,20.65,81,1.61,Clouds
+610,Obo,CF,5.4,26.49,20.65,81,1.61,Clouds
+611,Rohru,IN,31.22,77.75,17.23,29,1.16,Clear
+612,Rohru,IN,31.22,77.75,17.23,29,1.16,Clear
+613,Kouango,CF,4.99,19.96,23.54,62,1.66,Clear
+614,Kouango,CF,4.99,19.96,23.54,62,1.66,Clear
+615,Caravelas,BR,-17.71,-39.25,23.55,75,4.58,Clouds
+616,Caravelas,BR,-17.71,-39.25,23.55,75,4.58,Clouds
+617,Raudeberg,NO,61.99,5.14,2.78,93,4.95,Snow
+618,Raudeberg,NO,61.99,5.14,2.78,93,4.95,Snow
+619,Miepherkeim,TR,38.14,41.01,13.0,87,2.1,Clouds
+620,Miepherkeim,TR,38.14,41.01,12.0,93,2.1,Clouds
+621,Alekseyevsk,RU,57.84,108.35,8.5,65,0.71,Clouds
+622,Alekseyevsk,RU,57.84,108.35,8.5,65,0.71,Clouds
+623,Cabedelo,BR,-6.98,-34.83,25.0,94,3.1,Clouds
+624,Cabedelo,BR,-6.98,-34.83,25.0,94,3.1,Clouds
+625,Poronaysk,RU,49.22,143.12,5.13,89,3.07,Rain
+626,Poronaysk,RU,49.22,143.12,5.13,89,3.07,Rain
+627,Samarai,PG,-10.62,150.67,27.29,84,6.69,Rain
+628,Samarai,PG,-10.62,150.67,27.29,84,6.69,Rain
+629,Olinda,BR,-8.01,-34.86,28.0,78,4.1,Clouds
+630,Olinda,BR,-8.01,-34.86,28.0,78,4.1,Clouds
+631,Mubende,UG,0.56,31.39,15.83,68,1.28,Clouds
+632,Mubende,UG,0.56,31.39,15.83,68,1.28,Clouds
+633,St Austell,GB,50.34,-4.77,12.22,93,4.1,Clouds
+634,St Austell,GB,50.34,-4.77,12.22,93,3.6,Clouds
+635,Zharkent,KZ,44.16,80.0,20.22,32,4.22,Clouds
+636,Zharkent,KZ,44.16,80.0,20.22,32,4.22,Clouds
+637,Mehamn,NO,71.04,27.85,2.09,94,0.6,Rain
+638,Mehamn,NO,71.04,27.85,2.09,94,0.6,Rain
+639,Sanandij,IR,35.31,46.99,5.0,86,1.8,Clear
+640,Sanandij,IR,35.31,46.99,5.0,86,1.8,Clear
+641,Bogorodskoye,RU,56.55,37.88,11.21,87,4.49,Clear
+642,Bogorodskoye,RU,56.55,37.88,11.21,87,4.49,Clear
+643,Yangi Marg`ilon,UZ,40.43,71.72,17.0,55,1.0,Clear
+644,Yangi Marg`ilon,UZ,40.43,71.72,16.0,63,2.1,Clear
+645,Takoradze,GH,4.88,-1.76,26.9,85,3.07,Clouds
+646,Takoradze,GH,4.88,-1.76,26.9,85,3.07,Clouds
+647,Turkmenabat,TM,39.07,63.58,18.0,93,2.1,Rain
+648,Turkmenabat,TM,39.07,63.58,18.0,93,2.1,Rain
+649,Golovino,RU,55.96,40.43,12.41,86,4.05,Rain
+650,Golovino,RU,55.96,40.43,12.41,86,4.05,Rain
+651,Orbetello,IT,42.44,11.22,13.0,66,1.0,Clouds
+652,Orbetello,IT,42.44,11.22,13.0,66,1.0,Clouds
+653,Arua,UG,3.02,30.91,17.19,66,1.74,Clouds
+654,Arua,UG,3.02,30.91,17.19,66,1.74,Clouds
+655,Knyaze-Volkonskoye,RU,48.46,135.46,10.0,29,6.0,Clouds
+656,Knyaze-Volkonskoye,RU,48.46,135.46,10.0,29,6.0,Clouds
+657,Gold Coast,AU,-28.0,153.43,23.89,49,6.2,Clear
+658,Gold Coast,AU,-28.0,153.43,23.89,49,6.2,Clear
+659,Esperance,AU,-33.87,121.9,25.0,20,8.7,Clouds
+660,Esperance,AU,-33.87,121.9,25.0,20,8.7,Clouds
+661,Vila Velha,BR,-20.33,-40.29,23.0,69,3.6,Clouds
+662,Vila Velha,BR,-20.33,-40.29,23.0,69,3.6,Clouds
+663,Dosso,NE,13.05,3.19,29.93,40,4.93,Clear
+664,Dosso,NE,13.05,3.19,29.93,40,4.93,Clear
+665,Assaí,BR,-23.37,-50.85,14.6,75,2.71,Clear
+666,Assaí,BR,-23.37,-50.84,14.71,74,2.83,Clear
+667,Réo,BF,12.32,-2.47,31.54,48,5.93,Clear
+668,Réo,BF,12.32,-2.47,31.54,48,5.93,Clear
+669,Vardø,NO,70.37,31.11,2.0,93,4.1,Rain
+670,Vardø,NO,70.37,31.11,2.6,96,6.27,Rain
+671,Saint-Leu,RE,-21.15,55.28,24.0,78,3.6,Clouds
+672,Saint-Leu,RE,-21.15,55.28,24.0,78,3.6,Clouds
+673,Marsaxlokk,MT,35.84,14.54,16.67,100,1.0,Clear
+674,Marsaxlokk,MT,35.84,14.54,16.67,100,1.0,Clear
+675,Wagar,SD,16.15,36.2,24.34,16,4.05,Clouds
+676,Wagar,SD,16.15,36.2,24.34,16,4.05,Clouds
+677,Susuman,RU,62.78,148.17,-2.0,77,5.42,Clouds
+678,Susuman,RU,62.78,148.17,-2.0,77,5.42,Clouds
+679,San Quintín,MX,30.56,-115.94,18.24,78,7.19,Clear
+680,San Quintín,MX,30.48,-115.95,17.97,81,8.45,Clear
+681,Galle,LK,6.04,80.22,29.47,73,2.67,Rain
+682,Galle,LK,6.04,80.22,29.47,73,2.67,Rain
+683,Buenos Aires,AR,-34.61,-58.38,16.67,82,2.6,Clouds
+684,Buenos Aires,AR,-34.61,-58.38,16.67,82,2.6,Clouds
+685,Anloga,GH,5.79,0.9,25.0,94,2.1,Clouds
+686,Anloga,GH,5.79,0.9,25.0,94,2.1,Clouds
+687,Nelson Bay,AU,-32.72,152.15,19.44,52,3.1,Clouds
+688,Nelson Bay,AU,-32.72,152.15,19.44,52,3.1,Clouds
+689,Palana,RU,59.12,159.97,-0.11,86,2.17,Clouds
+690,Palana,RU,59.12,159.97,-0.11,86,2.17,Clouds
+691,Storslett,NO,69.77,21.02,2.88,85,2.37,Rain
+692,Storslett,NO,69.77,21.02,2.88,85,2.37,Rain
+693,Yar-Sale,RU,66.83,70.83,-10.46,93,5.51,Clouds
+694,Yar-Sale,RU,66.83,70.83,-10.46,93,5.51,Clouds
+695,Salalah,OM,17.02,54.09,29.0,89,2.1,Clouds
+696,Salalah,OM,17.02,54.09,29.0,89,2.1,Clouds
+697,Cardinal,CA,44.78,-75.38,14.0,50,4.6,Clouds
+698,Cardinal,CA,44.78,-75.38,14.0,50,4.6,Clouds
+699,Paris,FR,48.85,2.35,12.78,93,1.5,Clouds
+700,Paris,FR,48.85,2.35,12.78,93,1.5,Clouds
+701,Omsukchan,RU,62.53,155.8,-2.32,84,2.57,Clouds
+702,Omsukchan,RU,62.53,155.8,-2.32,84,2.57,Clouds
+703,Dobroye,RU,52.87,39.81,10.0,76,5.0,Rain
+704,Dobroye,RU,52.87,39.81,10.0,76,5.0,Rain
+705,Paamiut,GL,61.99,-49.67,0.19,98,5.37,Snow
+706,Paamiut,GL,61.99,-49.67,0.19,98,5.37,Snow
+707,Chapais,CA,49.78,-74.85,2.0,80,2.6,Clouds
+708,Chapais,CA,49.78,-74.85,2.0,80,2.6,Clouds
+709,Hof,DE,50.32,11.92,6.67,72,0.89,Clouds
+710,Hof,DE,50.32,11.92,6.67,72,0.89,Clouds
+711,Hasaki,JP,35.73,140.83,18.89,93,1.5,Rain
+712,Hasaki,JP,35.73,140.83,18.89,93,1.5,Rain
+713,Caborca,MX,30.58,-111.1,25.56,37,3.26,Clear
+714,Caborca,MX,30.58,-111.1,25.56,37,3.26,Clear
+715,Marsá Maţrūḩ,EG,31.35,27.25,17.75,81,3.07,Clear
+716,Barcelos,PT,41.54,-8.62,18.33,93,3.6,Clear
+717,Barcelos,PT,41.54,-8.62,18.33,93,3.6,Clear
+718,Usinsk,RU,65.99,57.53,-1.32,95,4.76,Clouds
+719,Usinsk,RU,65.99,57.53,-1.32,95,4.76,Clouds
+720,Jacareacanga,BR,-6.22,-57.75,23.62,94,0.41,Clouds
+721,Jacareacanga,BR,-6.22,-57.75,23.62,94,0.41,Clouds
+722,Mayskiy,RU,47.69,40.1,15.0,87,5.0,Clouds
+723,Mayskiy,RU,47.69,40.1,15.0,87,5.0,Clouds
+724,Meulaboh,ID,4.14,96.13,25.17,88,2.28,Rain
+725,Meulaboh,ID,4.14,96.13,25.17,88,2.28,Rain
+726,Ludhiana,IN,30.9,75.85,29.52,46,1.25,Clear
+727,Ludhiana,IN,30.9,75.85,29.52,46,1.25,Clear
+728,Port Hardy,CA,50.7,-127.42,12.0,54,4.6,Clouds
+729,Port Hardy,CA,50.7,-127.42,12.0,54,4.6,Clouds
+730,Sainte-Marie,RE,-20.9,55.55,24.0,78,6.7,Clouds
+731,Sainte-Marie,RE,-20.9,55.55,24.0,78,6.7,Clouds
+732,Provideniya,RU,64.38,-173.3,3.04,73,1.6,Clear
+733,Provideniya,RU,64.38,-173.3,3.04,73,1.6,Clear
+734,Belaya Gora,RU,68.53,146.42,-3.54,95,3.99,Clouds
+735,Belaya Gora,RU,68.53,146.42,-3.54,95,3.99,Clouds
+736,Prado,BR,-17.34,-39.22,23.15,79,4.51,Clouds
+737,Prado,BR,-17.34,-39.22,23.15,79,4.51,Clouds
+738,Macas,EC,-2.32,-78.12,19.71,63,0.93,Rain
+739,Macas,EC,-2.32,-78.12,19.71,63,0.93,Rain
+740,Vancouver,CA,49.25,-123.12,12.22,71,2.1,Clouds
+741,Vancouver,CA,49.25,-123.12,12.22,71,2.1,Clouds
+742,Kitob,UZ,39.08,66.83,21.9,36,1.74,Clouds
+743,Kitob,UZ,39.08,66.83,21.9,36,1.74,Clouds
+744,Souillac,MU,-20.52,57.52,24.0,100,4.6,Clouds
+745,Souillac,MU,-20.52,57.52,24.0,100,4.6,Clouds
+746,Bida,NG,9.08,6.02,26.34,73,2.28,Clouds
+747,Bida,NG,9.08,6.02,26.34,73,2.28,Clouds
+748,Buala,SB,-8.14,159.59,30.38,68,1.76,Rain
+749,Buala,SB,-8.14,159.59,30.38,68,1.76,Rain
+750,Mogzon,RU,51.74,111.96,11.03,29,6.17,Clear
+751,Mogzon,RU,51.74,111.96,11.03,29,6.17,Clear
+752,Anshun,CN,26.25,105.93,23.5,49,7.39,Clouds
+753,Anshun,CN,26.25,105.93,23.5,49,7.39,Clouds
+754,Goderich,CA,43.75,-81.72,7.78,81,6.86,Clouds
+755,Goderich,CA,43.75,-81.72,7.78,81,6.86,Clouds
+756,Dedza,MW,-14.38,34.33,10.88,43,0.68,Clear
+757,Dedza,MW,-14.38,34.33,10.88,43,0.68,Clear
+758,Bathsheba,BB,13.22,-59.52,27.0,78,9.3,Clouds
+759,Bathsheba,BB,13.22,-59.52,27.0,78,9.3,Clouds
+760,Akdepe,TM,42.06,59.38,21.0,56,2.1,Clouds
+761,Akdepe,TM,42.06,59.38,21.0,56,2.1,Clouds
+762,Narsaq,GL,60.92,-46.05,0.0,92,1.0,Snow
+763,Narsaq,GL,60.92,-46.05,0.0,92,1.0,Snow
+764,Lagoa,PT,39.05,-27.98,15.45,74,11.73,Rain
+765,Lagoa,PT,39.05,-27.98,15.45,74,11.73,Rain
+766,Roald,NO,62.58,6.13,4.44,74,1.5,Rain
+767,Roald,NO,62.58,6.13,4.44,74,1.5,Rain
+768,Lahat,ID,-3.8,103.53,30.84,60,1.04,Clouds
+769,Lahat,ID,-3.8,103.53,30.84,60,1.04,Clouds
+770,Bauchi,NG,10.5,10.0,26.27,60,1.48,Clouds
+771,Bauchi,NG,10.5,10.0,26.27,60,1.48,Clouds
+772,Airai,TL,-8.93,125.41,22.41,47,2.15,Clouds
+773,Airai,TL,-8.93,125.41,22.41,47,2.15,Clouds
+774,Kasongo-Lunda,CD,-6.47,16.82,21.52,77,0.06,Clear
+775,Kasongo-Lunda,CD,-6.47,16.82,21.52,77,0.06,Clear
+776,Krasnosel'kup,RU,65.7,82.47,1.53,99,4.93,Rain
+777,Krasnosel'kup,RU,65.7,82.47,1.53,99,4.93,Rain
+778,Manicaragua,CU,22.15,-79.97,25.0,83,2.6,Clouds
+779,Manicaragua,CU,22.15,-79.97,25.0,83,2.6,Clouds
+780,Plouzané,FR,48.38,-4.62,13.0,93,1.0,Mist
+781,Plouzané,FR,48.38,-4.62,13.0,93,1.0,Mist
+782,Mogadishu,SO,2.04,45.34,27.83,82,6.12,Rain
+783,Mogadishu,SO,2.04,45.34,27.83,82,6.12,Rain
+784,Tiznit Province,MA,29.58,-9.5,20.83,40,0.27,Clear
+785,Diego de Almagro,CL,-26.37,-70.05,12.26,47,0.36,Clear
+786,Diego de Almagro,CL,-26.37,-70.05,12.26,47,0.36,Clear
+787,El Paso,US,31.76,-106.49,32.0,9,5.7,Clear
+788,El Paso,US,31.76,-106.49,32.0,9,5.7,Clear
+789,Boueni,YT,-12.9,45.08,28.0,74,5.7,Clouds
+790,Boueni,YT,-12.9,45.08,28.0,74,5.7,Clouds
+791,Saint-Augustin,CA,51.23,-58.65,0.22,94,1.17,Clear
+792,Saint-Augustin,CA,51.23,-58.65,0.22,94,1.17,Clear
+793,Amapá,BR,1.0,-52.0,22.61,94,0.85,Clouds
+794,Amapá,BR,1.0,-52.0,22.61,94,0.85,Clouds
+795,Kashary,RU,49.04,41.01,14.29,85,5.26,Clouds
+796,Kashary,RU,49.04,41.01,14.29,85,5.26,Clouds
+797,Cap Malheureux,MU,-19.98,57.61,25.56,78,2.24,Clouds
+798,Cap Malheureux,MU,-19.98,57.61,25.56,78,2.24,Clouds
+799,‘Āhuimanu,US,21.44,-157.84,28.0,58,8.2,Clouds
+800,‘Āhuimanu,US,21.44,-157.84,28.0,58,8.2,Clouds
+801,Olafsvik,IS,64.89,-23.71,5.93,83,10.69,Rain
+802,Olafsvik,IS,64.89,-23.71,5.93,83,10.69,Rain
+803,Nemuro,JP,43.32,145.57,13.0,93,3.6,Drizzle
+804,Nemuro,JP,43.32,145.57,13.0,93,3.6,Drizzle
+805,Ketchikan,US,55.34,-131.65,8.0,93,7.7,Rain
+806,Ketchikan,US,55.34,-131.65,8.0,93,7.7,Rain
+807,Inuvik,CA,68.35,-133.72,-6.0,62,3.6,Clear
+808,Inuvik,CA,68.35,-133.72,-6.0,62,3.6,Clear
+809,Pecos,US,31.42,-103.49,34.0,13,2.1,Clear
+810,Pecos,US,31.42,-103.49,34.0,13,2.1,Clear
+811,Sungai Penuh,ID,-2.08,101.38,27.9,43,1.13,Clouds
+812,Sungai Penuh,ID,-2.08,101.38,27.9,43,1.13,Clouds
+813,Auki,SB,-8.77,160.7,29.31,73,0.85,Rain
+814,Auki,SB,-8.77,160.7,29.31,73,0.85,Rain
+815,Pedasí,PA,7.53,-80.03,27.89,75,7.51,Clouds
+816,Pisco,PE,-13.7,-76.22,20.0,82,6.2,Clear
+817,Pisco,PE,-13.7,-76.22,20.0,82,6.2,Clear
+818,Krasnogvardeyskiy,RU,57.38,62.32,4.33,66,1.38,Clouds
+819,Krasnogvardeyskiy,RU,57.38,62.32,4.33,66,1.38,Clouds
+820,Tupik,RU,54.43,119.93,11.11,31,3.28,Clouds
+821,Tupik,RU,54.43,119.93,11.11,31,3.28,Clouds
+822,Lang Son,VN,21.83,106.73,29.49,61,3.7,Clouds
+823,Lang Son,VN,21.83,106.73,29.49,61,3.7,Clouds
+824,Iraquara,BR,-12.25,-41.62,20.08,74,0.67,Clouds
+825,Iraquara,BR,-12.25,-41.62,20.08,74,0.67,Clouds
+826,Hay River,CA,60.82,-115.8,6.0,70,5.7,Clouds
+827,Hay River,CA,60.82,-115.8,6.0,70,5.7,Clouds
+828,Huilong,CN,31.81,121.66,21.04,75,4.73,Clear
+829,Huilong,CN,31.81,121.66,21.04,75,4.73,Clear
+830,Korla,CN,41.76,86.15,25.63,12,3.67,Clouds
+831,Korla,CN,41.76,86.15,25.63,12,3.67,Clouds
+832,Alibag,IN,18.64,72.88,29.0,79,1.66,Haze
+833,Alibag,IN,18.64,72.88,29.0,79,1.66,Haze
+834,Pechenga,RU,69.53,31.17,2.0,93,3.1,Rain
+835,Pechenga,RU,69.53,31.17,2.0,93,3.1,Rain
+836,Izumo,JP,35.37,132.77,25.0,61,6.7,Clouds
+837,Izumo,JP,35.37,132.77,25.0,61,6.7,Clouds
+838,Amalāpuram,IN,17.36,82.68,29.91,64,2.96,Clouds
+839,Amalāpuram,IN,16.58,82.02,32.42,58,2.24,Clear
+840,Dubti,ET,11.74,41.09,30.61,57,0.93,Clouds
+841,Dubti,ET,11.74,41.09,30.61,57,0.93,Clouds
+842,La Rioja,ES,42.25,-2.5,13.0,93,1.5,Clouds
+843,La Rioja,ES,42.25,-2.5,13.0,93,1.5,Clouds
+844,Praia,CV,14.92,-23.51,22.0,83,7.7,Clear
+845,Praia,CV,14.92,-23.51,22.0,83,7.7,Clear
+846,Odienné,CI,9.51,-7.57,25.6,68,2.32,Clouds
+847,Odienné,CI,9.51,-7.57,25.6,68,2.32,Clouds
+848,Rovaniemi,FI,66.5,25.72,1.0,100,2.6,Fog
+849,Rovaniemi,FI,66.5,25.72,1.0,100,2.6,Fog
+850,Goulburn,AU,-34.75,149.72,13.89,60,1.88,Clear
+851,Goulburn,AU,-34.75,149.72,13.89,60,1.88,Clear
+852,Cidreira,BR,-30.18,-50.21,18.32,76,5.81,Clear
+853,Cidreira,BR,-30.18,-50.21,18.32,76,5.81,Clear
+854,Alta Floresta,BR,-9.88,-56.09,21.83,84,0.95,Clouds
+855,Alta Floresta,BR,-9.88,-56.09,21.83,84,0.95,Clouds
+856,Salinas,US,36.68,-121.66,16.11,55,5.7,Clear
+857,Salinas,US,36.68,-121.66,16.11,55,5.7,Clear
+858,Ayan,RU,56.45,138.17,2.99,72,3.67,Clouds
+859,Ayan,RU,56.45,138.17,2.99,72,3.67,Clouds
+860,Sechura,PE,-5.56,-80.82,23.35,71,7.02,Clouds
+861,Sechura,PE,-5.56,-80.82,23.35,71,7.02,Clouds
+862,Ayagoz,KZ,47.97,80.44,16.06,44,8.05,Clear
+863,Ayagoz,KZ,47.97,80.44,16.06,44,8.05,Clear
+864,Nizhniy Kuranakh,RU,58.84,125.49,6.73,50,1.0,Clear
+865,Nizhniy Kuranakh,RU,58.84,125.49,6.73,50,1.0,Clear
+866,Cururupu,BR,-1.83,-44.87,24.53,95,0.99,Clouds
+867,Cururupu,BR,-1.83,-44.87,24.53,95,0.99,Clouds
+868,Necochea,AR,-38.55,-58.74,13.89,92,3.58,Clouds
+869,Necochea,AR,-38.55,-58.74,13.89,92,3.58,Clouds
+870,Havelock,US,34.88,-76.9,22.0,68,6.2,Clear
+871,Havelock,US,34.88,-76.9,22.0,68,6.2,Clear
+872,Luau,AO,-10.71,22.22,19.06,61,1.26,Clouds
+873,Luau,AO,-10.71,22.22,19.06,61,1.26,Clouds
+874,Tilichiki,RU,60.47,166.1,-1.41,94,4.1,Clouds
+875,Tilichiki,RU,60.47,166.1,-1.41,94,4.1,Clouds
+876,Gamba,GA,-2.65,10.0,25.34,93,1.52,Clouds
+877,Gamba,GA,-2.65,10.0,25.34,93,1.52,Clouds
+878,Mukhen,RU,48.1,136.1,7.36,77,2.27,Rain
+879,Mukhen,RU,48.1,136.1,7.36,77,2.27,Rain
+880,Sheltozero,RU,61.37,35.37,5.02,93,3.05,Clouds
+881,Sheltozero,RU,61.37,35.37,5.02,93,3.05,Clouds
+882,Kupang,ID,-10.17,123.58,31.0,55,10.3,Clouds
+883,Kupang,ID,-10.17,123.58,31.0,55,10.3,Clouds
+884,Mādhoganj,IN,27.12,80.15,32.35,31,3.4,Clouds
+885,Kula,TR,38.55,28.65,9.3,68,1.5,Clouds
+886,Kula,TR,38.55,28.65,9.3,68,1.5,Clouds
+887,Raja,SS,8.46,25.68,24.28,56,1.52,Clouds
+888,Raja,SS,8.46,25.68,24.28,56,1.52,Clouds
+889,Al Bardīyah,LY,31.76,25.09,16.69,88,3.8,Clear
+890,Erzin,TR,36.96,36.2,16.67,87,1.11,Clouds
+891,Erzin,TR,36.96,36.2,16.67,87,1.11,Clouds
+892,Fareydūnshahr,IR,32.94,50.12,6.42,26,2.01,Clouds
+893,Klaksvík,FO,62.23,-6.59,0.0,72,2.1,Clouds
+894,Klaksvík,FO,62.23,-6.59,1.0,80,2.1,Clouds
+895,Nhulunbuy,AU,-12.23,136.77,30.0,58,7.7,Clouds
+896,Nhulunbuy,AU,-12.23,136.77,30.0,58,7.7,Clouds
+897,Tura,IN,25.52,90.22,28.61,54,0.85,Rain
+898,Tura,IN,25.52,90.22,28.61,54,0.85,Rain
+899,Zhezkazgan,KZ,47.8,67.71,9.0,70,7.0,Clear
+900,Zhezkazgan,KZ,47.8,67.71,9.0,70,7.0,Clear
+901,Portland,US,45.52,-122.68,14.44,50,1.65,Clouds
+902,Portland,US,45.52,-122.68,14.44,50,1.65,Clouds
+903,Morondava,MG,-20.28,44.28,21.53,82,2.28,Clear
+904,Morondava,MG,-20.28,44.28,21.53,82,2.28,Clear
+905,Haines Junction,CA,60.75,-137.51,6.79,59,1.55,Clouds
+906,Haines Junction,CA,60.75,-137.51,6.79,59,1.55,Clouds
+907,Khowst,AF,33.38,69.88,17.0,25,6.7,Clear
+908,Khowst,AF,33.38,69.88,17.0,25,6.7,Clear
+909,Kathmandu,NP,27.72,85.32,18.0,93,2.6,Clouds
+910,Kathmandu,NP,27.72,85.32,18.0,93,2.6,Clouds
+911,Santa Cruz de la Sierra,BO,-17.8,-63.17,24.0,83,2.1,Clouds
+912,Santa Cruz de la Sierra,BO,-17.8,-63.17,24.0,83,2.1,Clouds
+913,Miass,RU,55.05,60.11,6.8,52,0.76,Clear
+914,Miass,RU,55.05,60.11,6.8,52,0.76,Clear
+915,Bontang,ID,0.13,117.5,30.15,65,0.61,Clouds
+916,Bontang,ID,0.13,117.5,30.15,65,0.61,Clouds
+917,São Gabriel da Cachoeira,BR,-0.12,-67.08,23.83,80,0.37,Clouds
+918,São Gabriel da Cachoeira,BR,-0.13,-67.09,23.88,80,0.38,Clouds
+919,Santarém,BR,-2.44,-54.71,25.0,94,2.1,Thunderstorm
+920,Santarém,BR,-2.44,-54.71,25.0,94,2.1,Thunderstorm
+921,Plettenberg Bay,ZA,-34.05,23.37,15.57,86,5.41,Clouds
+922,Plettenberg Bay,ZA,-34.05,23.37,15.57,86,5.41,Clouds
+923,Kousséri,CM,12.08,15.03,27.18,45,1.1,Clouds
+924,Kousséri,CM,12.08,15.03,27.18,45,1.1,Clouds
+925,Waitara,NZ,-38.92,174.25,15.56,85,4.47,Rain
+926,Waitara,NZ,-38.92,174.25,15.56,85,4.47,Rain
+927,Sørland,NO,67.67,12.69,4.12,75,7.91,Clouds
+928,Khudumelapye,BW,-23.88,24.75,14.4,29,1.96,Clear
+929,Khudumelapye,BW,-23.88,24.75,14.4,29,1.96,Clear
+930,Kelvington,CA,52.17,-103.53,6.4,56,4.55,Clear
+931,Kelvington,CA,52.17,-103.53,6.4,56,4.55,Clear
+932,General Roca,AR,-39.03,-67.58,12.0,62,1.5,Clouds
+933,General Roca,AR,-39.03,-67.58,12.0,62,1.5,Clouds
+934,Mookane,BW,-23.69,26.66,16.34,32,1.22,Clear
+935,Mookane,BW,-23.69,26.66,16.34,32,1.22,Clear
+936,Muscatine,US,41.47,-91.13,17.78,48,2.1,Clear
+937,Muscatine,US,41.47,-91.13,17.78,48,2.1,Clear
+938,Nikolayevsk-on-Amur,RU,53.14,140.73,7.13,55,3.28,Clouds
+939,Puteyets,RU,65.17,57.09,0.15,94,3.86,Clouds
+940,Puteyets,RU,65.17,57.09,0.15,94,3.86,Clouds
+941,Horishni Plavni,UA,49.01,33.63,12.99,89,2.33,Clouds
+942,Horishni Plavni,UA,49.01,33.65,12.92,90,2.36,Clouds
+943,North Battleford,CA,52.78,-108.28,14.0,41,8.2,Clouds
+944,North Battleford,CA,52.78,-108.28,14.0,41,8.2,Clouds
+945,Djibo,BF,14.1,-1.63,32.05,11,2.64,Clear
+946,Djibo,BF,14.1,-1.63,32.05,11,2.64,Clear
+947,Rawson,AR,-43.3,-65.1,15.18,43,6.55,Clear
+948,Rawson,AR,-43.3,-65.1,15.18,43,6.55,Clear
+949,Khani,GE,41.96,42.96,13.0,93,2.6,Clouds
+950,Khani,GE,41.96,42.96,13.0,93,2.6,Clouds
+951,Pendleton,US,45.67,-118.79,14.0,33,6.7,Clear
+952,Pendleton,US,45.67,-118.79,14.0,33,6.7,Clear
+953,Ust-Nera,RU,64.57,143.2,-2.12,83,2.89,Clouds
+954,Ust-Nera,RU,64.57,143.2,-2.12,83,2.89,Clouds
+955,Anadyr,RU,64.75,177.48,-5.0,92,2.0,Clouds
+956,Anadyr,RU,64.75,177.48,-5.0,92,2.0,Clouds
+957,Januária,BR,-15.49,-44.36,18.5,57,0.88,Clouds
+958,Januária,BR,-15.48,-44.37,18.46,57,0.87,Clouds
+959,Esmeralda,CU,21.85,-78.12,23.65,79,3.2,Clear
+960,Esmeralda,CU,21.85,-78.12,23.65,79,3.2,Clear
+961,Sulphur,US,30.24,-93.38,22.0,88,2.6,Clear
+962,Sulphur,US,30.24,-93.38,22.0,88,2.6,Clear
+963,Dubbo,AU,-32.25,148.62,15.0,62,3.6,Clear
+964,Dubbo,AU,-32.25,148.62,15.0,62,3.6,Clear
+965,Whitianga,NZ,-36.83,175.7,19.44,79,3.58,Rain
+966,Whitianga,NZ,-36.83,175.7,19.44,79,3.58,Rain
+967,Baker City,US,44.77,-117.83,10.0,43,5.7,Clear
+968,Baker City,US,44.77,-117.83,10.0,43,5.7,Clear
+969,Laguna,US,38.42,-121.42,22.0,33,6.2,Clear
+970,Laguna,US,38.42,-121.42,22.0,33,6.2,Clear
+971,Bāndīkūi,IN,27.05,76.57,29.68,44,3.62,Clouds
+972,Juradó,CO,7.11,-77.77,26.41,85,1.28,Clouds
+973,Juradó,CO,7.11,-77.76,26.33,85,1.21,Clouds
+974,Sault Ste. Marie,CA,46.52,-84.33,5.0,80,3.6,Clouds
+975,Sault Ste. Marie,CA,46.52,-84.33,5.0,80,3.6,Clouds
+976,Redlands,US,34.06,-117.18,24.0,47,5.7,Haze
+977,Redlands,US,34.06,-117.18,24.0,47,5.7,Haze
+978,Ishigaki,JP,24.34,124.16,29.0,83,3.6,Clouds
+979,Ishigaki,JP,24.34,124.16,29.0,83,3.6,Clouds
+980,Sistranda,NO,63.73,8.83,3.0,93,7.7,Rain
+981,Sistranda,NO,63.73,8.83,3.0,93,7.7,Rain
+982,Tadine,NC,-21.55,167.88,25.32,83,6.83,Clouds
+983,Tadine,NC,-21.55,167.88,25.32,83,6.83,Clouds
+984,Bondo,CD,3.81,23.69,21.72,73,0.1,Clouds
+985,Bondo,CD,3.81,23.69,21.72,73,0.1,Clouds
+986,Dovolnoye,RU,54.5,79.67,5.88,76,8.12,Clouds
+987,Dovolnoye,RU,54.5,79.67,5.88,76,8.12,Clouds
+988,Aksha,RU,50.28,113.29,13.76,26,6.44,Clear
+989,Aksha,RU,50.28,113.29,13.76,26,6.44,Clear
+990,Aswān,EG,24.09,32.91,23.68,25,1.82,Clear
+991,Zasheyek,RU,67.41,32.55,1.5,94,1.24,Clouds
+992,Zasheyek,RU,67.41,32.55,1.5,94,1.24,Clouds
+993,Rudnichnyy,RU,59.62,52.47,5.33,71,3.11,Clear
+994,Rudnichnyy,RU,59.62,52.47,5.33,71,3.11,Clear
+995,Bairiki Village,KI,1.33,172.98,31.0,74,3.1,Clouds
+996,Bairiki Village,KI,1.33,172.98,31.0,74,3.1,Clouds
+997,Chihuahua,MX,28.5,-106.0,31.0,10,2.1,Clouds
+998,Chihuahua,MX,28.5,-106.0,31.0,10,2.1,Clouds
+999,Touros,BR,-5.2,-35.46,25.0,94,1.5,Clouds
+1000,Touros,BR,-5.2,-35.46,25.0,94,1.5,Clouds
+1001,Sept-Îles,CA,50.2,-66.38,5.0,60,3.6,Clouds
+1002,Sept-Îles,CA,50.2,-66.38,5.0,60,3.6,Clouds
+1003,Cayenne,GF,4.93,-52.33,25.0,100,5.28,Rain
+1004,Cayenne,GF,4.93,-52.33,25.0,100,5.28,Rain
+1005,Swellendam,ZA,-34.02,20.44,12.0,87,1.0,Clouds
+1006,Swellendam,ZA,-34.02,20.44,12.0,87,1.0,Clouds
+1007,Kem',RU,64.96,34.58,3.96,96,4.47,Clouds
+1008,Skibbereen,IE,51.55,-9.27,8.0,81,2.6,Clouds
+1009,Skibbereen,IE,51.55,-9.27,8.0,81,2.6,Clouds
+1010,Maningrida,AU,-12.07,134.27,31.25,55,5.8,Clouds
+1011,Maningrida,AU,-12.07,134.27,31.25,55,5.8,Clouds
+1012,Burgeo,CA,47.62,-57.62,3.22,78,5.35,Clouds
+1013,Burgeo,CA,47.62,-57.62,3.22,78,5.35,Clouds
+1014,Alwar,IN,27.57,76.6,29.02,44,2.77,Clear
+1015,Alwar,IN,27.57,76.6,29.02,44,2.77,Clear
+1016,St. George's,GD,12.06,-61.75,27.0,83,5.1,Clouds
+1017,St. George's,GD,12.06,-61.75,27.0,83,5.1,Clouds
+1018,Alberton,CA,46.82,-64.07,7.22,13,18.33,Rain
+1019,Alberton,CA,46.82,-64.07,7.22,13,18.33,Rain
+1020,Encheng,CN,22.18,112.3,31.11,63,2.98,Clouds
+1021,Encheng,CN,22.18,112.3,31.11,63,2.98,Clouds
+1022,Xiongzhou,CN,25.12,114.3,32.12,52,2.36,Clouds
+1023,Xiongzhou,CN,25.12,114.3,32.12,52,2.36,Clouds
+1024,Sisimiut,GL,66.94,-53.67,-1.74,97,5.04,Snow
+1025,Sisimiut,GL,66.94,-53.67,-1.74,97,5.04,Snow
+1026,Xinqing,CN,48.23,129.5,11.34,31,4.77,Clouds
+1027,Xinqing,CN,48.23,129.5,11.34,31,4.77,Clouds
+1028,Challapata,BO,-18.9,-66.77,9.87,17,0.98,Clouds
+1029,Challapata,BO,-18.9,-66.77,9.87,17,0.98,Clouds
+1030,Dingle,PH,11.0,122.67,33.66,54,4.48,Clouds
+1031,Dingle,PH,11.0,122.67,33.66,54,4.48,Clouds
+1032,Shouguang,CN,36.88,118.74,15.56,60,0.89,Clouds
+1033,Shouguang,CN,36.88,118.74,15.56,60,0.89,Clouds
+1034,Tupiza,BO,-21.45,-65.72,15.64,14,2.19,Clouds
+1035,Tupiza,BO,-21.45,-65.72,15.64,14,2.19,Clouds
+1036,Arandis,NA,-22.42,14.97,22.08,22,3.18,Clear
+1037,Arandis,NA,-22.42,14.97,22.08,22,3.18,Clear
+1038,Maceió,BR,-9.67,-35.74,24.0,94,1.0,Clear
+1039,Maceió,BR,-9.67,-35.74,24.0,94,1.0,Clear
+1040,Malitubog,PH,7.32,124.64,34.73,43,2.44,Clouds
+1041,Malitubog,PH,7.32,124.64,34.73,43,2.44,Clouds
+1042,Bonthe,SL,7.53,-12.51,26.88,87,1.94,Clouds
+1043,Bonthe,SL,7.53,-12.51,26.88,87,1.94,Clouds
+1044,Rincon,US,32.3,-81.24,24.0,73,4.1,Clear
+1045,Rincon,US,32.3,-81.24,24.0,73,4.1,Clear
+1046,Allāpalli,IN,19.42,80.07,34.25,42,4.06,Clear
+1047,Pavlovka,RU,52.69,47.14,8.74,71,3.7,Clouds
+1048,Pavlovka,RU,52.69,47.14,8.74,71,3.7,Clouds
+1049,Bay Roberts,CA,47.6,-53.26,1.67,1,2.24,Rain
+1050,Bay Roberts,CA,47.6,-53.26,1.67,1,2.24,Rain
+1051,Terenos,BR,-20.44,-54.86,23.0,64,3.1,Clouds
+1052,Terenos,BR,-20.44,-54.86,23.0,64,3.1,Clouds
+1053,Vershino-Darasunskiy,RU,52.35,115.52,11.66,27,3.59,Clear
+1054,Vershino-Darasunskiy,RU,52.35,115.52,11.66,27,3.59,Clear
+1055,Cabra,ES,37.47,-4.44,20.0,52,2.34,Clouds
+1056,Cabra,ES,37.47,-4.44,20.0,52,2.34,Clouds
+1057,Broome,US,42.25,-75.83,14.0,54,8.2,Clear
+1058,Broome,US,42.25,-75.83,14.0,54,8.2,Clear
+1059,Teófilo Otoni,BR,-17.86,-41.51,18.27,81,2.37,Clouds
+1060,Teófilo Otoni,BR,-17.86,-41.51,18.27,81,2.37,Clouds
+1061,Quepos,CR,9.42,-84.17,23.0,73,5.7,Clouds
+1062,Quepos,CR,9.42,-84.17,23.0,73,5.7,Clouds
+1063,Kemijärvi,FI,66.71,27.43,1.49,93,2.81,Clouds
+1064,Kemijärvi,FI,66.71,27.43,1.49,93,2.81,Clouds
+1065,Vestmannaeyjar,IS,63.44,-20.27,5.51,67,5.45,Clouds
+1066,Vestmannaeyjar,IS,63.44,-20.27,5.51,67,5.45,Clouds
+1067,Pemangkat,ID,1.17,108.97,29.62,68,1.47,Clouds
+1068,Pemangkat,ID,1.17,108.97,29.62,68,1.47,Clouds
+1069,Mocuba,MZ,-16.84,36.99,17.25,93,1.03,Clear
+1070,Mocuba,MZ,-16.84,36.99,17.25,93,1.03,Clear
+1071,Ca Mau,VN,9.18,105.15,35.09,47,1.62,Clouds
+1072,Ca Mau,VN,9.18,105.15,35.09,47,1.62,Clouds
+1073,Tacoronte,ES,28.48,-16.41,17.22,93,6.7,Clouds
+1074,Tacoronte,ES,28.48,-16.41,17.22,93,6.7,Clouds
+1075,Namatanai,PG,-3.67,152.43,28.92,76,2.43,Rain
+1076,Namatanai,PG,-3.67,152.43,28.92,76,2.43,Rain
+1077,Kushima,JP,31.46,131.23,23.0,88,3.1,Clouds
+1078,Kushima,JP,31.46,131.23,23.0,88,3.1,Clouds
+1079,Kapuskasing,CA,49.42,-82.43,-3.0,79,5.1,Clouds
+1080,Kapuskasing,CA,49.42,-82.43,-3.0,79,5.1,Clouds
+1081,Sopot,PL,54.44,18.56,7.78,93,2.1,Clouds
+1082,Sopot,PL,54.44,18.56,7.78,93,2.1,Clouds
+1083,Kawardha,IN,22.02,81.25,34.76,19,3.44,Clear
+1084,Kawardha,IN,22.02,81.25,34.76,19,3.44,Clear
+1085,Ugoofaaru,MV,5.67,73.0,29.59,72,5.64,Clouds
+1086,Ugoofaaru,MV,5.67,73.0,29.59,72,5.64,Clouds
+1087,Araouane,ML,18.9,-3.53,28.49,13,3.02,Clear
+1088,Araouane,ML,18.9,-3.53,28.49,13,3.02,Clear
+1089,Punata,BO,-17.55,-65.83,20.0,45,3.1,Clouds
+1090,Punata,BO,-17.55,-65.83,20.0,45,3.1,Clouds
